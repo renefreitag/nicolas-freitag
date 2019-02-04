@@ -1,0 +1,22 @@
+.house {
+	color: grey
+
+}
+
+.head1 {
+	color: green
+}
+
+header {
+	background-color: black
+	margin: 1;
+}
+
+ul {
+	text-align: left;
+}
+
+
+header li {
+	display: inline-block;
+}
